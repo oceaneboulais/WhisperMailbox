@@ -13,7 +13,7 @@ From the [Art Project](https://medium.com/truebit/statements-on-creative-allianc
   <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/hallway.jpg">
 </p>
 
-*View of Hallway*
+*Elevated View of Hallway*
 <p align="center">
   <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/eagle_eye_hallway.jpg">
 </p>
