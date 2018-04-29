@@ -22,7 +22,7 @@ From the [Art Project](https://medium.com/truebit/statements-on-creative-allianc
 
 ## Human Interaction: 
 A visitor to this piece will be met with a funnel that may remind them of their playground days, like this:<p align="center">
-  <img width="460" height="300" src="http://littletikescommercial.com/wp-content/uploads/2014/11/SeigelSoccer-TN-329.jpg">
+  <img src="http://littletikescommercial.com/wp-content/uploads/2014/11/SeigelSoccer-TN-329.jpg">
 </p>
 <br> The idea is, humans will whisper their deepest, darkest secrets into the Ethereum blockchain network using the Whisper Protocol through this funnel. You can read more about how Whisper works [here](https://github.com/ethereum/wiki/wiki/Whisper). 
 
