@@ -34,7 +34,7 @@ As a message is "whispered" into this piece of the installation, the sound will 
 
 ## Current Contributers: 
   - Ivan: Status Engineer; 
-  - Matt:
+  - Matt: Blockchain Engineer and XLNT Person; he's around to build/maintain the Ethereum network that the whisper mailbox uses
   - Andy: Status Engineer; 
   - Lindy: Creative Technologist; She's here to advise and help make sure it all happens and to integrate it with the rest of the sculpture
   - Océane: Incoming grad student at the MIT Media Lab; Working on hardware and the analog-digital stuff
