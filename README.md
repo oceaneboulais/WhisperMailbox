@@ -21,10 +21,11 @@ From the [Art Project](https://medium.com/truebit/statements-on-creative-allianc
 
 
 ## Human Interaction: 
-A visitor to this piece will be met with a funnel that may remind them of their playground days, like this:<p align="center">
+A visitor to this piece will be met with a funnel that may remind them of their playground days, like this:
+<p align="center">
   <img src="http://littletikescommercial.com/wp-content/uploads/2014/11/SeigelSoccer-TN-329.jpg">
 </p>
- The idea is, humans will whisper their deepest, darkest secrets into the Ethereum blockchain network using the Whisper Protocol through this funnel. You can read more about how [Whisper works](https://github.com/ethereum/wiki/wiki/Whisper). 
+ The idea is, humans will whisper their deepest, darkest secrets into the Ethereum blockchain network using the Whisper Protocol through this funnel. You can read more about how Whisper works here: (https://github.com/ethereum/wiki/wiki/Whisper). 
 
 ## Expected Result: 
 As a message is "whispered" into this piece of the installation, the sound will be converted into a 10-bit binary to an expecting Whisper Network node (RPi3) which will activate a series of programmable LEDs events throughout a main hall of the structure. These LEDs will represent the percolation of the message data throughout each node on the Whisper Network, until it has reached it's "destination".
