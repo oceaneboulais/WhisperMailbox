@@ -37,7 +37,7 @@ As a message is "whispered" into this piece of the installation, the sound will 
   - Andy: Status Engineer; 
   - Lindy: Creative Technologist; She's here to advise and help make sure it all happens and to integrate it with the rest of the sculpture
   - Océane: Incoming grad student at the MIT Media Lab; Working on hardware and the analog-digital stuff
-  - Jessica: Installation artist; Designed modular pieces that can be arranged in different ways for the LED hallway
+  - Jessica: Installation artist; Director of the Doge-Ethereum Bridge art installation and designed modular pieces that can be arranged in different ways for the LED hallway
   
   
  ## Update 4.1.18
