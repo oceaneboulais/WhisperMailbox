@@ -1,18 +1,22 @@
 # WhisperMailbox Overview
 
 ## Purpose: 
-A piece for the Doge-Ethereum Bridge [art installation](https://medium.com/truebit/statements-on-creative-alliances-and-integrated-participation-6afdead8786a). For spatial understanding, this structure will fit around 40 people at a time and will be on interactive display for ~ 2yrs. Exact location is TBA.
-The purpose of this repo is to share everything we build for this piece so that it can be replicated by anyone.
+From the [Art Project](https://medium.com/truebit/statements-on-creative-alliances-and-integrated-participation-6afdead8786a) community, this is a piece for the Doge-Etherium Bridge art installation that is connected to the Blockchain. The installation will be a Klein Bottle structure that will fit around 40 people and be on display for about two years. The exact location is TBA. This repo is meant to be a place where we share everything we have done to build this installation so that it may replicated by you, the reader.
 <br>
 *Eagle-Eye View*
 <p align="center">
   <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/top_view.jpg">
 </p>
-
 *WhisperMailbox Hallway*
-![alt text](https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/hallway.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/hallway.jpg">
+</p>
+
 *Eagle-Eye View of Hallway*
-![alt text](https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/eagle_eye_hallway.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/eagle_eye_hallway.jpg">
+</p>
+
 
 
 ## Human Interaction: 
