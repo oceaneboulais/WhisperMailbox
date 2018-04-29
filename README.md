@@ -7,12 +7,12 @@ From the [Art Project](https://medium.com/truebit/statements-on-creative-allianc
 <p align="center">
   <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/top_view.jpg">
 </p>
-<br>
+
 *WhisperMailbox Hallway*
 <p align="center">
   <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/hallway.jpg">
 </p>
-<br>
+
 *Eagle-Eye View of Hallway*
 <p align="center">
   <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/eagle_eye_hallway.jpg">
