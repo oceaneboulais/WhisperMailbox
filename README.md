@@ -1,7 +1,7 @@
 # WhisperMailbox Overview
 
 ## Purpose: 
-A piece for the Doge-Ethereum Bridge art installation connecting to the Blockchain within the [ArtProject](https://medium.com/truebit/statements-on-creative-alliances-and-integrated-participation-6afdead8786a) community. For spatial understanding, this structure will fit around 40 people at a time and will be on interactive display for ~ 2yrs. Exact location is TBA.
+A piece for the Doge-Ethereum Bridge [art installation](https://medium.com/truebit/statements-on-creative-alliances-and-integrated-participation-6afdead8786a). For spatial understanding, this structure will fit around 40 people at a time and will be on interactive display for ~ 2yrs. Exact location is TBA.
 The purpose of this repo is to share everything we build for this piece so that it can be replicated by you, dear reader.
 
 ## Human Interaction: 
@@ -17,8 +17,9 @@ As a message is "whispered" into this piece of the installation, the sound will 
   - Ivan: Status Engineer; 
   - Matt:
   - Andy: Status Engineer; 
-  - Lindy: Creative Technologist;
+  - Lindy: Creative Technologist; She's here to advise and help make sure it all happens and to integrate it with the rest of the sculpture
   - Océane: Incoming grad student at the MIT Media Lab; Working on hardware and the analog-digital stuff
+  - Jessica: Installation artist; Designed modular pieces that can be arranged in different ways for the LED hallway
   
   
  ## Update 4.1.18
