@@ -9,12 +9,12 @@ From the [Art Project](https://medium.com/truebit/statements-on-creative-allianc
 </p>
 
 *WhisperMailbox Hallway*
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/hallway.jpg">
 </p>
 
 *Elevated View of Hallway*
-<p align="center">
+<p align="right">
   <img width="460" height="300" src="https://github.com/oceaneboulais/WhisperMailbox/blob/master/img/eagle_eye_hallway.jpg">
 </p>
 
