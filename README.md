@@ -4,6 +4,7 @@
 A piece for the Doge-Ethereum Bridge [art installation](https://medium.com/truebit/statements-on-creative-alliances-and-integrated-participation-6afdead8786a). For spatial understanding, this structure will fit around 40 people at a time and will be on interactive display for ~ 2yrs. Exact location is TBA.
 The purpose of this repo is to share everything we build for this piece so that it can be replicated by anyone.
 
+
 ## Human Interaction: 
 A visitor to this piece will be met with a funnel that may remind them of their playground days, like this:![alt text](http://littletikescommercial.com/wp-content/uploads/2014/11/SeigelSoccer-TN-329.jpg)
 <br> The idea is, humans will whisper their deepest, darkest secrets into the Ethereum blockchain network using the Whisper Protocol through this funnel. You can read more about how Whisper works [here](https://github.com/ethereum/wiki/wiki/Whisper). 
