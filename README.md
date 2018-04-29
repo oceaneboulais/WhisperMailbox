@@ -1,7 +1,7 @@
 # WhisperMailbox Overview
 
 ## Purpose: 
-From the [Art Project](https://medium.com/truebit/statements-on-creative-alliances-and-integrated-participation-6afdead8786a) community, this is a piece for the Doge-Etherium Bridge art installation that is connected to the Blockchain. The installation will be a Klein Bottle structure that will fit around 40 people and be on display for about two years. The exact location is TBA. This repo is meant to be a place where we share everything we have done to build this installation so that it may replicated by you, the reader. Here are some preview pictures of what the overall structure will look like; to be clear, the Whisper Mailbox will be a key interactive piece inside of this structure.
+From the [Art Project](https://medium.com/truebit/statements-on-creative-alliances-and-integrated-participation-6afdead8786a) community, this is a piece for the Doge-Etherium Bridge art installation that is connected to the Blockchain. The installation will be a Klein Bottle structure that will fit around 40 people and be on display for about two years. The exact location is TBA. This repo is meant to be a place where we share everything we have done to build this installation so that it may replicated by you, the reader. <br>Here are some preview pictures of what the overall structure will look like; to be clear, the Whisper Mailbox will be a key interactive piece inside of this structure.
 <br>
 *Eagle-Eye View of the Installation*
 <p align="center">
